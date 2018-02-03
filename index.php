@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>i-Dev Git | Home</title>
+		<title>i-Dev Git 1| Home</title>
 	</head>
 	<body>
 		<h1> Hello Git </h1>

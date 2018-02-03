@@ -16,8 +16,11 @@ Steps :
 	$ git status
 	$ git add .
 	$ git status
+
+	$ git config --global user.name AdiFirmansah
+	$ git config --global user.email adi12firmansah@gmail.com
 	```
-	
+
 * [ ] Melakukan penambahan file
 * [ ] Intro github
 * [ ] Remote repo -> code
